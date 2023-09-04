@@ -1,10 +1,10 @@
-## Product Item Component Readme
+# Product Item Component Readme
 
-# Overview
+## Overview
 
 This repository contains a React Native component called ProductItem.tsx, which is designed to display individual product items on a home screen. The component has been developed to meet specific requirements related to the design of the product list.
 
-# Features
+## Features
 
 The ProductItem component includes the following features:
 
@@ -29,7 +29,7 @@ The ProductItem component includes the following features:
 * Material Community Icons: A library of icons for use in React Native applications.
 * Expo Font: A library for using custom fonts
 
-### Installation
+## Installation
 
 1. Navigate to the project directory:
     * cd react-native
