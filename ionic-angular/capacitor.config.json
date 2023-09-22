@@ -1,8 +1,0 @@
-{
-  "appId": "io.ionic.inventory",
-  "appName": "Inventory",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www",
-  "cordova": {}
-}
